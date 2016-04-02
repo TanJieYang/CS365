@@ -1,0 +1,13 @@
+Symbol
+"FSTAS.SI", "FSTAS1000.SI", "FSTICA.SI", "FSTC.SI", "FSTCT.SI", 
+"FSTAS3000.SI", "FSTAS5000.SI", "FSTAS8000.SI", "FSTF.SI", "FSTAS4000.SI", 
+"FSTAS2000.SI", "FSTAM.SI", "FSTM.SI", "FSTAS0001.SI", "FSTAS8630.SI", 
+"FSTAS8600.SI", "FSTAS8670.SI", "FSTS.SI", "FSTAS9000.SI", "FSTAS6000.SI", 
+"FSTAS7000.SI", "^STI"
+
+Name
+"FTSE ST All-Share Index", "FTSE ST Basic", "FTSE ST Catalist Index", "FTSE ST China Index", "FTSE ST China Top Index",
+"FTSE ST Consumer Goods Index", "FTSE ST Consumer Services Index", "FTSE ST Financials Index", "FTSE ST Fledgling Index", "FTSE ST Health Care Index",
+"FTSE ST Industrials Index", "FTSE ST Maritime Index", "FTSE ST Mid Cap Index", "FTSE ST Oil & Gas Index", "FTSE ST Real Estate Holding",
+"FTSE ST Real Estate Index", "FTSE ST Real Estate Investment", "FTSE ST Small Cap Index", "FTSE ST Technology Index", "FTSE ST Telecommunications Inde",
+"FTSE ST Utilities Index", "STI Index"

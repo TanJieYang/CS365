@@ -1,0 +1,37 @@
+
+# ------------------------------------------------------------
+# This config file's String delimiter
+# ------------------------------------------------------------
+CONFIG_FILE_STRING_DELIMITER=, 
+
+# ------------------------------------------------------------
+# Options for tab1, Source, Exchange
+# ------------------------------------------------------------
+TAB1_SOURCE_EXCHANGE_COMBOBOX_CONTENTS=SGX, KLSE, NYSE
+
+TAB1_SOURCE_SGX_TYPESOFINFO_COMBOBOX_CONTENTS=MarketInfo | Sector Summary, MarketInfo | Indices, MarketInfo | STI Constituents, Company Info | Corporate Action, Company Info | Stock / Indices List, Company Info | ISIN Code Download, Company Information | Corporate Information
+
+TAB1_SOURCE_KLSE_TYPESOFINFO_COMBOBOX_CONTENTS=KLSE HomePage | Financial Data1, KLSE HomePage | Financial Data2, KLSE HomePage | Financial Data3
+
+TAB1_SOURCE_NYSE_TYPESOFINFO_COMBOBOX_CONTENTS=NYSE HomePage | Financial Data1, NYSE HomePage | Financial Data2, NYSE HomePage | Financial Data3
+
+
+TAB1_SOURCE_SGX_URL7=http://www.sgx.com/wps/portal/sgxweb/home/marketinfo/sector_summary
+TAB1_SOURCE_SGX_URL6=http://www.sgx.com/wps/portal/sgxweb/home/marketinfo/indices/indices
+TAB1_SOURCE_SGX_URL5=http://www.sgx.com/wps/portal/sgxweb/home/marketinfo/indices/sti_constituents
+TAB1_SOURCE_SGX_URL4=http://www.sgx.com/wps/portal/sgxweb/home/company_disclosure/corporate_action
+TAB1_SOURCE_SGX_URL3=http://www.sgx.com/wps/portal/sgxweb/home/company_disclosure/stock_indiceslist
+TAB1_SOURCE_SGX_URL2=http://www.sgx.com/wps/portal/sgxweb/home/company_disclosure/isin_code_download
+TAB1_SOURCE_SGX_URL1=http://www.sgx.com/wps/portal/sgxweb/home/company_disclosure/corporate%20information
+
+
+TAB1_SOURCE_KLSE_URL1=http://www.bursamalaysia.com/market/FINANCIAL_DATA_TYPE1_WebPage
+TAB1_SOURCE_KLSE_URL2=http://www.bursamalaysia.com/market/FINANCIAL_DATA_TYPE2_WebPage
+TAB1_SOURCE_KLSE_URL3=http://www.bursamalaysia.com/market/FINANCIAL_DATA_TYPE3_WebPage
+
+TAB1_SOURCE_NYSE_URL1=http://www.nyse.com/market/FINANCIAL_DATA_TYPE1_WebPage
+TAB1_SOURCE_NYSE_URL2=http://www.nyse.com/market/FINANCIAL_DATA_TYPE2_WebPage
+TAB1_SOURCE_NYSE_URL3=http://www.nyse.com/market/FINANCIAL_DATA_TYPE3_WebPage
+
+
+TAB1_DESTINATION_FILEFORMAT_COMBOBOX_CONTENTS=*.csv, *.tld, *.xls

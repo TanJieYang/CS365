@@ -1,0 +1,270 @@
+{
+	"Comp" : 
+	[
+		{
+			"Symbol" : "FSTAS.SI",
+			"Name" : "FTSE ST All-Share Index"
+		},
+    
+		{
+			"Symbol" : "FSTAS1000.SI",
+			"Name" : "FTSE ST Basic"
+		},
+    
+		{
+			"Symbol" : "FSTICA.SI",
+			"Name" : "FTSE ST Catalist Index"
+		},
+    
+		{
+			"Symbol" : "FSTC.SI",
+			"Name" : "FTSE ST China Index"
+		},
+		
+		{
+			"Symbol" : "FSTCT.SI",
+			"Name" : "FTSE ST China Top Index"
+		},
+    
+		{
+			"Symbol" : "FSTAS3000.SI",
+			"Name" : "FTSE ST Consumer Goods Index"
+		},
+    
+		{
+			"Symbol" : "FSTAS5000.SI",
+			"Name" : "FTSE ST Consumer Services Index"
+		},
+    
+		{
+			"Symbol" : "FSTAS8000.SI",
+			"Name" : "FTSE ST Financials Index"
+		},
+    
+		{
+			"Symbol" : "FSTF.SI",
+			"Name" : "FTSE ST Fledgling Index"
+		},
+    
+		{
+			"Symbol" : "FSTAS4000.SI",
+			"Name" : "FTSE ST Health Care Index"
+		},
+    
+		{
+			"Symbol" : "FSTAS2000.SI",
+			"Name" : "FTSE ST Industrials Index"
+		},
+    
+		{
+			"Symbol" : "FSTAM.SI",
+			"Name" : "FTSE ST Maritime Index"
+		},
+    
+		{
+			"Symbol" : "FSTM.SI",
+			"Name" : "FTSE ST Mid Cap Index"
+		},
+    
+		{
+			"Symbol" : "FSTAS0001.SI",
+			"Name" : "FTSE ST Oil & Gas Index"
+		},
+    
+		{
+			"Symbol" : "FSTAS8630.SI",
+			"Name" : "FTSE ST Real Estate Holding"
+		},
+    
+		{
+			"Symbol" : "FSTAS8600.SI",
+			"Name" : "FTSE ST Real Estate Index"
+		},
+    
+		{
+			"Symbol" : "FSTAS8670.SI",
+			"Name" : "FTSE ST Real Estate Investment"
+		},
+    
+		{
+			"Symbol" : "FSTS.SI",
+			"Name" : "FTSE ST Small Cap Index"
+		},
+    
+		{
+			"Symbol" : "FSTAS9000.SI",
+			"Name" : "FTSE ST Technology Index"
+		},
+    
+		{
+			"Symbol" : "FSTAS6000.SI",
+			"Name" : "FTSE ST Telecommunications Index"
+		},
+    
+		{
+			"Symbol" : "FSTAS7000.SI",
+			"Name" : "FTSE ST Utilities Index"
+		},
+    
+		{
+			"Symbol" : "^STI",
+			"Name" : "STI Index"
+		},
+    
+    {
+			"Symbol" : "A17U.SI",
+			"Name" : "Ascendas Real Estate Inv Trust"
+		},
+    
+    {
+			"Symbol" : "BN4.SI",
+			"Name" : "Keppel Corp Ltd"
+		},
+    
+    {
+			"Symbol" : "BS6.SI",
+			"Name" : "Yangzijiang Shipbuilding (Holdings) Ltd"
+		},
+    
+    {
+			"Symbol" : "C07.SI",
+			"Name" : "Jardine Cycle & Carriage Ltd"
+		},
+    
+    {
+			"Symbol" : "C09.SI",
+			"Name" : "City Developments Ltd"
+		},
+    
+    {
+			"Symbol" : "C31.SI",
+			"Name" : "CapitaLand Ltd"
+		},
+    
+    {
+			"Symbol" : "C38U.SI",
+			"Name" : "Capitamall Trust"
+		},
+    
+    {
+			"Symbol" : "C52.SI",
+			"Name" : "ComfortDelGro Corp Ltd"
+		},
+    
+    {
+			"Symbol" : "C6L.SI",
+			"Name" : "Singapore Airlines Limited"
+		},
+    
+    {
+			"Symbol" : "CC3.SI",
+			"Name" : "StarHub Ltd"
+		},
+    
+    {
+			"Symbol" : "D05.SI",
+			"Name" : "DBS Group Holdings Ltd"
+		},
+    
+    {
+			"Symbol" : "E5H.SI",
+			"Name" : "Golden Agri-Resources Ltd"
+		},
+    
+    {
+			"Symbol" : "F34.SI",
+			"Name" : "Wilmar International Ltd"
+		},
+    
+    {
+			"Symbol" : "G13.SI",
+			"Name" : "Genting Singapore PLC"
+		},
+    
+    {
+			"Symbol" : "H78.SI",
+			"Name" : "Hongkong Land Holdings Ltd"
+		},
+    
+    {
+			"Symbol" : "MC0.SI",
+			"Name" : "Global Logistic Properties Ltd"
+		},
+    
+    {
+			"Symbol" : "N21.SI",
+			"Name" : "Noble Group Ltd"
+		},
+    
+    {
+			"Symbol" : "NS8U.SI",
+			"Name" : "Hutchison Port Holdings Trust"
+		},
+    
+    {
+			"Symbol" : "O39.SI",
+			"Name"	: "Oversea-Chinese Banking Corp Ltd"		
+		},
+    
+    {
+			"Symbol" : "S51.SI",
+			"Name"	: "SembCorp Marine Ltd"		
+		},
+    
+    {
+			"Symbol" : "S58.SI",
+			"Name"	: "SATS Ltd"		
+		},
+    
+    {
+			"Symbol" : "S59.SI",
+			"Name"	: "SIA Engineering Co Ltd"		
+		},
+    
+    {
+			"Symbol" : "S63.SI",
+			"Name"	: "Singapore Technologies Engineering Ltd"		
+		},
+    
+    {
+			"Symbol" : "S68.SI",
+			"Name"	: "Singapore Exchange Ltd"		
+		},
+    
+    {
+			"Symbol" : "T39.SI",
+			"Name"	: "Singapore Press Holdings Ltd"		
+		},
+    
+    {
+			"Symbol" : "U11.SI",
+			"Name"	: "United Overseas Bank Ltd"		
+		},
+    
+    {
+			"Symbol" : "U14.SI",
+			"Name"	: "UOL Group Ltd"		
+		},
+    
+    {
+			"Symbol" : "U96.SI",
+			"Name"	: "SEMBCorp Industries Ltd"		
+		},
+    
+    {
+			"Symbol" : "Y92.SI",
+			"Name"	: "Thai Beverage PLC"		
+		},
+    
+    {
+			"Symbol" : "Z74.SI",
+			"Name"	: "Singapore Telecommunications Limited"		
+		},
+		
+		{
+			"Symbol" : "null",
+			"Name"	: "null"		
+		}
+		
+	]
+}
